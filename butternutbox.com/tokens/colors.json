@@ -1,0 +1,109 @@
+{
+  "color-dcdce6": {
+    "value": "#dcdce6",
+    "description": "Observed 171x on https://butternutbox.com, https://butternutbox.com/blog/nutrition/tinned-dog-food",
+    "usageCount": 171,
+    "observedOn": [
+      "https://butternutbox.com",
+      "https://butternutbox.com/blog/nutrition/tinned-dog-food"
+    ]
+  },
+  "color-brand-primary": {
+    "value": "#000000",
+    "description": "Observed 40x on https://butternutbox.com/sitemap-de-de.xml",
+    "usageCount": 40,
+    "observedOn": [
+      "https://butternutbox.com/sitemap-de-de.xml"
+    ]
+  },
+  "color-fff": {
+    "value": "#fff",
+    "description": "Observed 95x on https://butternutbox.com, https://butternutbox.com/blog/nutrition/tinned-dog-food",
+    "usageCount": 95,
+    "observedOn": [
+      "https://butternutbox.com",
+      "https://butternutbox.com/blog/nutrition/tinned-dog-food"
+    ]
+  },
+  "color-brand-textprimary": {
+    "value": "#522a10",
+    "description": "Observed 90x on https://butternutbox.com, https://butternutbox.com/blog, https://butternutbox.com/contact, https://butternutbox.com/terms-of-use/2025, https://butternutbox.com/blog/nutrition/tinned-dog-food",
+    "usageCount": 90,
+    "observedOn": [
+      "https://butternutbox.com",
+      "https://butternutbox.com/blog",
+      "https://butternutbox.com/contact",
+      "https://butternutbox.com/terms-of-use/2025",
+      "https://butternutbox.com/blog/nutrition/tinned-dog-food"
+    ]
+  },
+  "color-brand-background": {
+    "value": "#ffffff",
+    "description": "Observed 60x on https://butternutbox.com, https://butternutbox.com/blog, https://butternutbox.com/contact, https://butternutbox.com/terms-of-use/2025, https://butternutbox.com/sitemap-de-de.xml, https://butternutbox.com/blog/nutrition/tinned-dog-food",
+    "usageCount": 60,
+    "observedOn": [
+      "https://butternutbox.com",
+      "https://butternutbox.com/blog",
+      "https://butternutbox.com/contact",
+      "https://butternutbox.com/terms-of-use/2025",
+      "https://butternutbox.com/sitemap-de-de.xml",
+      "https://butternutbox.com/blog/nutrition/tinned-dog-food"
+    ]
+  },
+  "color-rgba-9-32-46-0-1": {
+    "value": "rgba(9,32,46,0.1)",
+    "description": "Observed 42x on https://butternutbox.com, https://butternutbox.com/blog, https://butternutbox.com/contact, https://butternutbox.com/terms-of-use/2025, https://butternutbox.com/blog/nutrition/tinned-dog-food",
+    "usageCount": 42,
+    "observedOn": [
+      "https://butternutbox.com",
+      "https://butternutbox.com/blog",
+      "https://butternutbox.com/contact",
+      "https://butternutbox.com/terms-of-use/2025",
+      "https://butternutbox.com/blog/nutrition/tinned-dog-food"
+    ]
+  },
+  "color-ffd54d": {
+    "value": "#ffd54d",
+    "description": "Observed 28x on https://butternutbox.com, https://butternutbox.com/contact",
+    "usageCount": 28,
+    "observedOn": [
+      "https://butternutbox.com",
+      "https://butternutbox.com/contact"
+    ]
+  },
+  "color-191919": {
+    "value": "#191919",
+    "description": "Observed 5x on https://butternutbox.com, https://butternutbox.com/blog/nutrition/tinned-dog-food",
+    "usageCount": 5,
+    "observedOn": [
+      "https://butternutbox.com",
+      "https://butternutbox.com/blog/nutrition/tinned-dog-food"
+    ]
+  },
+  "color-00b67a": {
+    "value": "#00b67a",
+    "description": "Observed 5x on https://butternutbox.com, https://butternutbox.com/blog/nutrition/tinned-dog-food",
+    "usageCount": 5,
+    "observedOn": [
+      "https://butternutbox.com",
+      "https://butternutbox.com/blog/nutrition/tinned-dog-food"
+    ]
+  },
+  "color-005128": {
+    "value": "#005128",
+    "description": "Observed 5x on https://butternutbox.com, https://butternutbox.com/blog/nutrition/tinned-dog-food",
+    "usageCount": 5,
+    "observedOn": [
+      "https://butternutbox.com",
+      "https://butternutbox.com/blog/nutrition/tinned-dog-food"
+    ]
+  },
+  "color-8c8c8c": {
+    "value": "#8c8c8c",
+    "description": "Observed 4x on https://butternutbox.com/blog/nutrition/tinned-dog-food",
+    "usageCount": 4,
+    "observedOn": [
+      "https://butternutbox.com/blog/nutrition/tinned-dog-food"
+    ]
+  }
+}

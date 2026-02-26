@@ -1,0 +1,60 @@
+/**
+ * SystemMiner Design Tokens
+ * Extracted from: https://butternutbox.com/
+ * Generated: 2026-02-26T01:52:24.947Z
+ * 
+ * Usage: Import this file in your index.css
+ * All tokens use --sm- prefix for namespacing
+ */
+
+:root {
+  /* ======================== */
+  /* Colors                   */
+  /* ======================== */
+  --sm-color-dcdce6: #dcdce6; /* 171x */
+  --sm-color-brand-primary: #000000; /* 40x */
+  --sm-color-fff: #fff; /* 95x */
+  --sm-color-brand-textprimary: #522a10; /* 90x */
+  --sm-color-brand-background: #ffffff; /* 60x */
+  --sm-color-rgba-9-32-46-0-1: rgba(9,32,46,0.1); /* 42x */
+  --sm-color-ffd54d: #ffd54d; /* 28x */
+  --sm-color-191919: #191919; /* 5x */
+  --sm-color-00b67a: #00b67a; /* 5x */
+  --sm-color-005128: #005128; /* 5x */
+  --sm-color-8c8c8c: #8c8c8c; /* 4x */
+
+  /* ======================== */
+  /* Typography               */
+  /* ======================== */
+  --sm-font-family-1: IBM Plex Sans Condensed; /* 100x */
+  --sm-font-family-2: Ida Narrow; /* 100x */
+  --sm-font-body-3: 20px; /* 60x */
+  --sm-font-heading-4: 16px; /* 30x */
+  --sm-font-family-5: Times New Roman; /* 30x */
+  --sm-font-heading-6: 48px; /* 30x */
+  --sm-font-heading-7: 60px; /* 30x */
+  --sm-font-heading-8: 28px; /* 20x */
+  --sm-font-heading-9: 18px; /* 10x */
+  --sm-font-family-10: monospace; /* 10x */
+
+  /* ======================== */
+  /* Spacing                  */
+  /* ======================== */
+  --sm-spacing-xs: 4px; /* 50x */
+  --sm-spacing-xs-1: 0; /* 26x */
+  --sm-spacing-lg: 18.326693227091635%; /* 19x */
+  --sm-spacing-md: 10px; /* 10x */
+  --sm-spacing-xs-4: 0px; /* 6x */
+  --sm-spacing-xl: 24.6031746031746%; /* 5x */
+  --sm-spacing-xs-6: -1px; /* 5x */
+  --sm-spacing-3xl: 100%; /* 2x */
+
+  /* ======================== */
+  /* Effects                  */
+  /* ======================== */
+  --sm-radius-1: 12px; /* 50x */
+  --sm-radius-2: 80px; /* 25x */
+  --sm-radius-3: 0px; /* 10x */
+  --sm-radius-4: 8px; /* 5x */
+
+}

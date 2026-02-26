@@ -1,0 +1,42 @@
+{
+  "radius-1": {
+    "value": "12px",
+    "description": "Observed 50x on https://butternutbox.com, https://butternutbox.com/blog, https://butternutbox.com/contact, https://butternutbox.com/terms-of-use/2025, https://butternutbox.com/blog/nutrition/tinned-dog-food",
+    "usageCount": 50,
+    "observedOn": [
+      "https://butternutbox.com",
+      "https://butternutbox.com/blog",
+      "https://butternutbox.com/contact",
+      "https://butternutbox.com/terms-of-use/2025",
+      "https://butternutbox.com/blog/nutrition/tinned-dog-food"
+    ]
+  },
+  "radius-2": {
+    "value": "80px",
+    "description": "Observed 25x on https://butternutbox.com, https://butternutbox.com/blog, https://butternutbox.com/contact, https://butternutbox.com/terms-of-use/2025, https://butternutbox.com/blog/nutrition/tinned-dog-food",
+    "usageCount": 25,
+    "observedOn": [
+      "https://butternutbox.com",
+      "https://butternutbox.com/blog",
+      "https://butternutbox.com/contact",
+      "https://butternutbox.com/terms-of-use/2025",
+      "https://butternutbox.com/blog/nutrition/tinned-dog-food"
+    ]
+  },
+  "radius-3": {
+    "value": "0px",
+    "description": "Observed 10x on https://butternutbox.com/sitemap-de-de.xml",
+    "usageCount": 10,
+    "observedOn": [
+      "https://butternutbox.com/sitemap-de-de.xml"
+    ]
+  },
+  "radius-4": {
+    "value": "8px",
+    "description": "Observed 5x on https://butternutbox.com/contact",
+    "usageCount": 5,
+    "observedOn": [
+      "https://butternutbox.com/contact"
+    ]
+  }
+}
